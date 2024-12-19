@@ -1,5 +1,7 @@
 # Agent Ghost CRM Demo #
 
+LINK TO DEMO - https://agent-ghost-demo-19b6e469ee5c.herokuapp.com/
+
 ## Overview ##
 The AgentGhost CRM Demo showcases how advanced AI technologies, such as embedding generation,
 cosine similarity, and transformer powered explanations, can enhance decision making in the insurance/marketing domain. 
